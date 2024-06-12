@@ -163,6 +163,11 @@ an individual, except for the purposes of reviewing this policy, in
 which case a separate mailing list shall be designated by the IESG for
 that purpose.
 
+# Informational Collection and Reporting
+
+The executive director shall collect and report aggregate statistics
+annually to the community about complaints received and their disposition.
+
 # LLC Considerations
 
 The IETF requests that, if requested by the executive director,
