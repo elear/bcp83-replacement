@@ -46,26 +46,28 @@ Individuals are expected to behave at all times in a professional
 manner for the purposes of the organization, as specified in
 {{!RFC3935}}, and for the purposes of individual mailing lists.
 
-Experience has shown that there are problems with the existing
-procedure for enforcing professional standards.  The problems include,
-but are not limited to the following:
+Thankfully the need to take action against individuals is relatively
+rare. Experience has shown that when the existing procedure is invoked,
+the procedure itself causes as many problems as it solves, including:
 
-* Community discussion draws away from the fundamental mission of the
-organization.
-* Community discussion humiliates the individual who has behaved
-inappropriately.
+* Community discussion drawing away from the fundamental mission of the
+  organization;
+* Humiliation the individual who has behaved inappropriately;
 * The need for a committee draws from scarce volunteer resources from
-other potentially more fruitful activities.
-* IESG approval and last call requires precious IESG resources.
+  other potentially more fruitful activities;
+* Consumption of IESG resources.
 
-For these reasons, a simpler approach that aligns with other
-professional bodies is suggested. The goals of the approach address
-the problems above as follows:
+## Goals
+
+For these reasons, a new approach that aligns with other professional
+bodies is specified. The goals of the approach address the problems
+above as follows:
 
 * Minimize inappropriate behavior.
 * Maximize appropriate participation in IETF activities.
 * Minimize volunteer resources necessary to address inappropriate
   behavior.
+* Allow for approaches that are tailored to each situation.
 * Limit humiliation of those who have offended.
 * Provide a right of appeal.
 * Provide for transparency.
@@ -96,7 +98,19 @@ contributions to the IETF list, and lays out charters of other plenary
 lists.  Any new plenary lists created shall contain a statement as to
 what the list is to be used for.  Messages beyond that purpose are
 inappropriate, as are messages that violate our community standards as
-specified by our NOTE-WELL.
+specified by our NOTE-WELL \[XXX CITE\].
+
+## Initiating Complaints
+
+Complaints against individuals shall be transmitted to the executive
+director via a mailing list \[TBD\].  Complaints must not be sent to
+other IETF mailing lists.  The executive director may also take action
+on their own initiative.
+
+It is beyond the scope of ANY mailing list to discuss the behavior of
+an individual, except for the purposes of reviewing this policy, in
+which case a separate mailing list shall be designated by the IESG for
+that purpose.
 
 ## Who is responsible for addressing inappropriate messages?
 
@@ -120,13 +134,6 @@ action taken across ALL IETF mailing lists.  However, posting rights
 limitations across all IETF lists should be viewed as an absolute last
 resort.
 
-### Handling of Spam, Phishing, and other automated messages
-
-The executive director may take any action they deem appropriate to
-limit spam, phishing, and other such automated attacks.  They shall
-inform the IETF community of the mechanisms in place to the extent
-that sensible operational security permits.
-
 ## Community Notice
 
 When the executive director takes an action in accordance with this
@@ -136,11 +143,12 @@ IESG meeting.  In cases where an individual is banned or suspended
 from any working group list, notice shall be given to either the
 impacted working group or to IETF-Announce.
 
-
 ## Appeals
 
-Individuals may appeal decisions of the executive director to the
-IESG chair and then to the IESG, as described in {{!RFC2026}}.
+Individuals may appeal decisions of the executive director under this
+policy to the IESG chair and then to the IESG, as described in
+{{!RFC2026}} within one month of notification.  In taking any action,
+the executive director shall notify the offender of these rights.
 
 ## Review
 
@@ -152,16 +160,13 @@ discretion, the executive director may reinstate some or all posting
 priveleges to an individual.  Such decisions are not subject to
 appeal.
 
-# Complaints
+# Handling of Spam, Phishing, and other automated messages
 
-Complaints against individuals shall be transmitted to the executive
-director via a mailing list \[TBD\].  Complaints must not be sent to
-other IETF mailing lists.
+The executive director may take any action they deem appropriate to
+limit spam, phishing, and other such automated attacks.  They shall
+inform the IETF community of the mechanisms in place to the extent
+that sensible operational security permits.
 
-It is beyond the scope of ANY mailing list to discuss the behavior of
-an individual, except for the purposes of reviewing this policy, in
-which case a separate mailing list shall be designated by the IESG for
-that purpose.
 
 # Informational Collection and Reporting
 
@@ -177,9 +182,9 @@ sufficient resources be allocated for this purpose.
 
 This policy attempts to limit exposure of the names of individuals
 accused of inappropriate behavior.  However, the transparency needs of
-the organization demand that the community be informed of actions
-taken against individuals.  This permits community oversight of the
-function without causing undue embarressment or humiliation.
+the organization demand that the community be informed of certain
+actions taken against individuals.  This permits community oversight
+of the function without causing undue embarressment or humiliation.
 
 # Security Considerations
 
