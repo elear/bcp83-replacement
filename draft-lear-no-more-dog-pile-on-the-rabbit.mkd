@@ -115,10 +115,6 @@ appropriate processes specified by the IETF in relevant BCPs in an
 evenhanded way, using the least amount of intervention necessary to
 satisfy the goals in [](#introduction).
 
-The executive director may take any actions necessary to
-prevent unauthorized messages to mailing lists within the scope of
-this policy.
-
 The executive director MAY, in consultations with the IESG, apply any
 action taken across ALL IETF mailing lists.  However, posting rights
 limitations across all IETF lists should be viewed as an absolute last
@@ -127,7 +123,9 @@ resort.
 ### Handling of Spam, Phishing, and other automated messages
 
 The executive director may take any action they deem appropriate to
-limit spam, phishing, and other such automated attacks.
+limit spam, phishing, and other such automated attacks.  They shall
+inform the IETF community of the mechanisms in place to the extent
+that sensible operational security permits.
 
 ## Community Notice
 
