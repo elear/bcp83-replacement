@@ -70,7 +70,7 @@ the problems above as follows:
 * Provide a right of appeal.
 * Provide for transparency.
 
-# Summary of changes
+## Summary of changes
 
 The following changes are made to IETF policy:
 
