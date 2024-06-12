@@ -1,0 +1,205 @@
+---
+title: IETF Plenary List Management Procedures
+abbrev: IETF Lists
+docname: draft-lear-no-more-dog-pile-on-the-rabbit-00
+submissionType: IETF
+category: bcp
+updates: rfc9245, rfc3934
+obsoletes: rfc3683
+ipr: trust200902
+keyword: Internet-Draft
+
+stand_alone: yes
+pi: [toc, sortrefs, symrefs]
+
+author:
+ -
+    ins: E. Lear
+    name: Eliot Lear
+    org: Cisco Systems
+    street: Richtistrasse 7
+    code: CH-8304
+    city: Wallisellen
+    country: Switzerland
+    phone: "+41 44 878 9200"
+    email: lear@lear.ch
+
+normative:
+   
+informative:
+
+
+--- abstract
+
+This memo provides a procedure and authority to address inappropriate
+behavior on IETF plenary lists.  It updates obsoletes RFC 3683 and
+updates RFC 9245.
+
+
+--- middle
+
+Introduction
+============
+
+The charter for the IETF discussion list is layed out in {{!RFC9245}}.
+Individuals are expected to behave at all times in a professional
+manner for the purposes of the organization, as specified in
+{{!RFC3935}}, and for the purposes of individual mailing lists.
+
+Experience has shown that there are problems with the existing
+procedure for enforcing professional standards.  The problems include,
+but are not limited to the following:
+
+* Community discussion draws away from the fundamental mission of the
+organization.
+* Community discussion humiliates the individual who has behaved
+inappropriately.
+* The need for a committee draws from scarce volunteer resources from
+other potentially more fruitful activities.
+* IESG approval and last call requires precious IESG resources.
+
+For these reasons, a simpler approach that aligns with other
+professional bodies is suggested. The goals of the approach address
+the problems above as follows:
+
+* Minimize inappropriate behavior.
+* Maximize appropriate participation in IETF activities.
+* Minimize volunteer resources necessary to address inappropriate
+  behavior.
+* Limit humiliation of those who have offended.
+* Provide a right of appeal.
+* Provide for transparency.
+
+# Summary of changes
+
+The following changes are made to IETF policy:
+
+* {{!RFC3686}} and all processes therein are obsoleted by the new process
+  that vests authority in the executive director.
+* Only the moderation function in Section 3 of {{!RFC9245}} is obsoleted.
+* Additional authority is given to the executive director to address
+  other IETF mailing lists in limtied circumstances.  Thus {{!RFC3934}}
+  is updated accordingly.
+
+# Mailing List Policy
+
+## Applicability
+
+This policy applies to all IETF plenary lists mentioned in {{RFC9245}}.
+In addition, certain aspects of this policy may be applied across all
+IETF lists, as stated below.
+
+## What is appropriate or inappropriate behavior?
+
+{{!RFC9245}} describes both appropriate and inappropriate
+contributions to the IETF list, and lays out charters of other plenary
+lists.  Any new plenary lists created shall contain a statement as to
+what the list is to be used for.  Messages beyond that purpose are
+inappropriate, as are messages that violate our community standards as
+specified by our NOTE-WELL.
+
+## Who is responsible for addressing inappropriate messages?
+
+The executive director of the IETF shall be responsible for addressing
+inappropriate messages.  The executive director may delegate this function.
+The moderation function described in Section 3 of {{!RFC9245}} is
+discontinued.
+
+## What actions may be taken?
+
+The executive director shall take any action they deem appropriate in
+a given circumstance, including but not limited to advising, warning,
+moderating, rate-limiting, suspending, or banning individuals.  In
+performing this function, the executive director should apply all
+appropriate processes specified by the IETF in relevant BCPs in an
+evenhanded way, using the least amount of intervention necessary to
+satisfy the goals in [](#introduction).
+
+The executive director may take any actions necessary to
+prevent unauthorized messages to mailing lists within the scope of
+this policy.
+
+The executive director MAY, in consultations with the IESG, apply any
+action taken across ALL IETF mailing lists.  However, posting rights
+limitations across all IETF lists should be viewed as an absolute last
+resort.
+
+### Handling of Spam, Phishing, and other automated messages
+
+The executive director may take any action they deem appropriate to
+limit spam, phishing, and other such automated attacks.
+
+## Community Notice
+
+When the executive director takes an action in accordance with this
+policy, they shall inform the IESG by email.  In the case of bans or
+suspensions, this notification shall be noted and minuted in the next
+IESG meeting.  In cases where an individual is banned or suspended
+from any working group list, notice shall be given to either the
+impacted working group or to IETF-Announce.
+
+
+## Appeals
+
+Individuals may appeal decisions of the executive director to the
+IESG chair and then to the IESG, as described in {{!RFC2026}}.
+
+## Review
+
+An individual who has been moderated, rate-limited, suspended, or
+banned from a list within the scope of this policy may apply to the
+executive director to restore normal posting rights after a period of
+six months, and every six months thereafter.  At their sole
+discretion, the executive director may reinstate some or all posting
+priveleges to an individual.  Such decisions are not subject to
+appeal.
+
+# Complaints
+
+Complaints against individuals shall be transmitted to the executive
+director via a mailing list \[TBD\].  Complaints must not be sent to
+other IETF mailing lists.
+
+It is beyond the scope of ANY mailing list to discuss the behavior of
+an individual, except for the purposes of reviewing this policy, in
+which case a separate mailing list shall be designated by the IESG for
+that purpose.
+
+# LLC Considerations
+
+The IETF requests that, if requested by the executive director,
+sufficient resources be allocated for this purpose.
+
+# Privacy Considerations
+
+This policy attempts to limit exposure of the names of individuals
+accused of inappropriate behavior.  However, the transparency needs of
+the organization demand that the community be informed of actions
+taken against individuals.  This permits community oversight of the
+function without causing undue embarressment or humiliation.
+
+# Security Considerations
+
+This memo creates no new technical mechanisms and therefore there
+are no security considerations.
+
+# IANA Considerations
+
+\[This section to be removed by RFC Editor.\]
+
+No registries are requested.
+
+# Acknowledgments
+
+The author would like to thank Marshall Rose for having first
+addressed this difficult subject in our series, as well as all those
+who have served as moderators and ombudspeople.
+
+--- back
+
+
+Changes from Earlier Versions
+=============================
+
+\[\[This section to be removed by RFC Editor\]\]
+
