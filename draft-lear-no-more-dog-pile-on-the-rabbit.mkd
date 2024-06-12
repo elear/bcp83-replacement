@@ -83,6 +83,25 @@ The following changes are made to IETF policy:
   other IETF mailing lists in limtied circumstances.  Thus {{!RFC3934}}
   is updated accordingly.
 
+## Why shift this function from the community to the executive director?
+
+The previous policy required that a discussion take place within the
+community to ban an individual.  Those discussions have proven to be
+both long, meandering, emotional, and time consuming.  The reason we
+have juries is so that the public needn't vote in a popularity contest
+about whether someone should be convicted.
+
+The executive director is in a position to address complaints and
+observe bad behavior outside the melee of any particular technical
+discussion, because they carry no agenda other than the aims of the
+organization.  In addition, as a managerial arm of the IETF, the
+executive director has the capabilities to manage what are sometimes
+difficult personal situations.
+
+Finally, the executive director is in a position to engage and make
+decisions in an effective manner, without consuming inordinate
+amounts of community resources.
+
 # Mailing List Policy
 
 ## Applicability
@@ -118,6 +137,10 @@ The executive director of the IETF shall be responsible for addressing
 inappropriate messages.  The executive director may delegate this function.
 The moderation function described in Section 3 of {{!RFC9245}} is
 discontinued.
+
+The executive director may consult with members of the community,
+including but not limited to area directors, working group chairs, and
+IETF participants; in order to seek a good outcome.
 
 ## What actions may be taken?
 
