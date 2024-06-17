@@ -23,6 +23,11 @@ author:
     country: Switzerland
     phone: "+41 44 878 9200"
     email: lear@lear.ch
+ -
+    ins: R. Wilton
+    name: Robert Wilton
+    org: Cisco Systems
+    email: rwilton@cisco.com
 
 normative:
    
@@ -144,7 +149,7 @@ The executive director may consult with members of the community,
 including but not limited to area directors, working group chairs, and
 IETF participants; in order to seek a good outcome.
 
-## What actions may be taken?
+## What actions may be taken? {#actions}
 
 The executive director shall take any action they deem appropriate in
 a given circumstance, including but not limited to advising, warning,
@@ -170,17 +175,23 @@ impacted working group or to IETF-Announce.
 
 ## Appeals
 
-Individuals may appeal decisions of the executive director under this
-policy to the IESG chair and then to the IESG, as described in
-{{!RFC2026}} within one month of notification.  In taking any action,
-the executive director shall notify the offender of these rights.
+Individuals may appeal the decisions taken by the executive director,
+as specified in [](#actions).  Appeals follow a fairly usual IETF
+appeals process and timeline, as follows.  Any initial appeal should
+be made to the executive director, and if the appeallant is unhappy
+with the outcome of the appeal decision, they may escalate the
+complaint to the IESG, and finally the IAB, as described in
+{{!RFC2026}}.  Appeals must be made within one month of receiving
+initial notification of the moderation action, or subsequent appeal
+outcome.  In taking any action, the executive director shall notify the
+offender of these rights.
 
 ## Review
 
 An individual who has been moderated, rate-limited, suspended, or
 banned from a list within the scope of this policy may apply to the
 executive director to restore normal posting rights after a period of
-six months, and every six months thereafter.  At their sole
+twelve months, and every twelve months thereafter.  At their sole
 discretion, the executive director may reinstate some or all posting
 priveleges to an individual.  Such decisions are not subject to
 appeal.
