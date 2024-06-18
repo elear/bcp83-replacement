@@ -41,7 +41,8 @@ author:
     ins: J. Levine
     name: John Levine
     org: Standcore LLC
-    email: stadnards@standcore.com
+    phone: "+1 607 330 5711"
+    email: standards@standcore.com
 
 normative:
    
