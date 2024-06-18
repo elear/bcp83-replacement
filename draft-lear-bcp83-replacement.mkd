@@ -37,6 +37,11 @@ author:
     country: Australia
     phone: "+61 457 416 436"
     email: brong@fastmailteam.com
+ -
+    ins: J. Levine
+    name: John Levine
+    org: Standcore LLC
+    email: stadnards@standcore.com
 
 normative:
    
@@ -160,13 +165,13 @@ IETF participants; in order to seek a good outcome.
 
 ## What actions may be taken? {#actions}
 
-The executive director shall take any action they deem appropriate in
-a given circumstance, including but not limited to advising, warning,
-moderating, rate-limiting, suspending, or banning individuals.  In
-performing this function, the executive director should apply all
-appropriate processes specified by the IETF in relevant BCPs in an
-even-handed way, using the least amount of intervention necessary to
-satisfy the goals in [](#introduction).
+The executive director may take any action they deem appropriate in
+a given circumstance, including but not limited to no action,
+advising, warning, moderating, rate-limiting, suspending, or banning
+individuals.  In performing this function, the executive director
+should apply all appropriate processes specified by the IETF in
+relevant BCPs in an even-handed way, using the least amount of
+intervention necessary to satisfy the goals in [](#introduction).
 
 The executive director MAY, in consultations with the IESG, apply any
 action taken across all IETF mailing lists.  However, posting rights
