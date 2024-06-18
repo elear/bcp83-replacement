@@ -28,6 +28,15 @@ author:
     name: Robert Wilton
     org: Cisco Systems
     email: rwilton@cisco.com
+ -
+    ins: B. Gondwana
+    name: Bron Gondwana
+    org: Fastmail Pty Ltd
+    street: Level 2, 114 William Street
+    code: 3000
+    country: Australia
+    phone: "+61 457 416 436"
+    email: brong@fastmailteam.com
 
 normative:
    
@@ -37,7 +46,7 @@ informative:
 --- abstract
 
 This memo provides a procedure and authority to address inappropriate
-behavior on IETF plenary lists.  It updates obsoletes RFC 3683 and
+behavior on IETF plenary lists.  It obsoletes RFC 3683 and
 updates RFC 9245.
 
 
@@ -58,7 +67,7 @@ the procedure itself causes as many problems as it solves, including:
 * Community discussion drawing away from the fundamental mission of the
   organization;
 * Humiliation the individual who has behaved inappropriately;
-* The need for a committee draws from scarce volunteer resources from
+* The need for a committee draws scarce volunteer resources from
   other potentially more fruitful activities;
 * Consumption of IESG resources.
 
@@ -85,7 +94,7 @@ The following changes are made to IETF policy:
   that vests authority in the executive director.
 * Only the moderation function in Section 3 of {{!RFC9245}} is obsoleted.
 * Additional authority is given to the executive director to address
-  other IETF mailing lists in limtied circumstances.  Thus {{!RFC3934}}
+  other IETF mailing lists in limited circumstances.  Thus {{!RFC3934}}
   is updated accordingly.
 
 What is and is not acceptable behavior has not changed.
@@ -94,15 +103,15 @@ What is and is not acceptable behavior has not changed.
 
 The previous policy required that a discussion take place within the
 community to ban an individual.  Those discussions have proven to be
-both long, meandering, emotional, and time consuming.  The reason we
-have juries is so that the public needn't vote in a popularity contest
+long, meandering, emotional, and time consuming.  The reason we have
+juries is so that the public needn't vote in a popularity contest
 about whether someone should be convicted.
 
 The executive director is in a position to address complaints and
 observe bad behavior outside the melee of any particular technical
 discussion, because they carry no agenda other than the aims of the
 organization.  In addition, as a managerial arm of the IETF, the
-executive director has the capabilities to manage what are sometimes
+executive director has the capability to manage what are sometimes
 difficult personal situations.
 
 Finally, the executive director is in a position to engage and make
@@ -156,12 +165,12 @@ a given circumstance, including but not limited to advising, warning,
 moderating, rate-limiting, suspending, or banning individuals.  In
 performing this function, the executive director should apply all
 appropriate processes specified by the IETF in relevant BCPs in an
-evenhanded way, using the least amount of intervention necessary to
+even-handed way, using the least amount of intervention necessary to
 satisfy the goals in [](#introduction).
 
 The executive director MAY, in consultations with the IESG, apply any
-action taken across ALL IETF mailing lists.  However, posting rights
-limitations across all IETF lists should be viewed as an absolute last
+action taken across all IETF mailing lists.  However, posting rights
+limitations across all lists should be viewed as an absolute last
 resort.
 
 ## Community Notice
