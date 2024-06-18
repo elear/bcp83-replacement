@@ -1,7 +1,7 @@
 ---
 title: IETF Plenary List Management Procedures
 abbrev: IETF Lists
-docname: draft-lear-no-more-dog-pile-on-the-rabbit-00
+docname: draft-lear-bcp83-replacement-00
 submissionType: IETF
 category: bcp
 updates: rfc9245, rfc3934

@@ -1,7 +1,7 @@
 
-DOCS=	draft-lear-no-more-dog-pile-on-the-rabbit.txt \
-	draft-lear-no-more-dog-pile-on-the-rabbit.xml \
-	draft-lear-no-more-dog-pile-on-the-rabbit.html
+DOCS=	draft-lear-bcp83-replacement.txt \
+	draft-lear-bcp83-replacement.xml \
+	draft-lear-bcp83-replacement.html
 
 all: $(DOCS)
 
