@@ -250,7 +250,7 @@ No registries are requested.
 
 # Acknowledgments
 
-The author would like to thank Marshall Rose for having first
+The authors would like to thank Marshall Rose for having first
 addressed this difficult subject in our series, as well as all those
 who have served as moderators and ombudspeople.
 
